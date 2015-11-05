@@ -1,0 +1,21 @@
+{
+  "name": "real-chat",
+  "version": "1.0.0",
+  "description": "Simple application user NodeJs, ExpressJs and Socket.io to chat in real time",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js localhost 5000"
+  },
+  "keywords": [
+    "NodeJs",
+    "ExpressJs",
+    "socket.io"
+  ],
+  "author": "Meenakshi Sundaram <vms20591@gmail.com>",
+  "license": "GPL-3.0"
+}
